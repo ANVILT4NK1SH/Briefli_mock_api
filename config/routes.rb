@@ -9,4 +9,7 @@ Rails.application.routes.draw do
   # root "posts#index"
 
   get "/org/clients", to: "org#getClients"
+
+  get "/file", to: "files#getAllFiles"
+  get "/file/:orgId/:fileName", to: "files#getFile"
 end
