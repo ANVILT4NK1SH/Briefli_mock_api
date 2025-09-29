@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fileName: MyString
+  displayName: MyString
+  status: MyString
+  createdAt: MyString
+  processedAt: 1
+  orgId: MyString
+  clientId: MyString
+  fileSize: 1
+
+two:
+  fileName: MyString
+  displayName: MyString
+  status: MyString
+  createdAt: MyString
+  processedAt: 1
+  orgId: MyString
+  clientId: MyString
+  fileSize: 1
